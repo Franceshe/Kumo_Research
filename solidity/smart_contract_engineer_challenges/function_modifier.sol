@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
+//function modifier basic
+//function modifier with input
+//function modifier with sandwich
+
 contract FunctionModifier {
     bool public paused;
     uint public count;
