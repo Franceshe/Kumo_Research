@@ -74,3 +74,9 @@ Validate inputs
 Check states right before and after a function call
 """
 
+
+* Constructor
+"""
+constructor is a special function that is called only once when the contract is deployed.
+The main purpose of the the constructor is to set state variables to some initial state.
+"""
