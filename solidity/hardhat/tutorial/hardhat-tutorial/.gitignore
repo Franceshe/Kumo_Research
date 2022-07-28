@@ -1,0 +1,2 @@
+# exclude node module from npm install files
+node_modules/
